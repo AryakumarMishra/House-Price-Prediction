@@ -21,7 +21,7 @@ It’s implemented using **Python**, **JupyterLab**, and **Scikit-Learn**.
    cd House-Price-Prediction
 2. **Install the Dependencies for 'requirements.txt'**:
    ```
-   "pip install -r requirements.txt"
+   pip install -r requirements.txt
 3. **Run the Jupyter Notebook**:
    ```
-   "jupyter notebook HousePricePrediction.ipynb"
+   jupyter notebook HousePricePrediction.ipynb
