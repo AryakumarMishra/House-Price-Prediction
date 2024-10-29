@@ -2,9 +2,9 @@
 
 ### House Price Prediction - Machine Learning Project
 
-This is a machine learning project regarding the prediction of house prices in and around Mumbai City
-This project predicts house prices using features like size, location, and number of rooms.  
-It’s implemented using **Python**, **JupyterLab**, and **Scikit-Learn**.
+- This is a machine learning project regarding the prediction of house prices in and around Mumbai City.
+- This project predicts house prices using features like size, location, and number of rooms.  
+- It’s implemented using **Python**, **JupyterLab**, and **Scikit-Learn**.
 
 ### Dataset
 - The dataset contains house prices with multiple features like area, bedrooms, and location.
