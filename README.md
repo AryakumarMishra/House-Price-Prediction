@@ -19,7 +19,9 @@ It’s implemented using **Python**, **JupyterLab**, and **Scikit-Learn**.
    ```bash
    git clone https://github.com/AryakumarMishra/House-Price-Prediction.git
    cd House-Price-Prediction
-3. **Install the Dependencies for 'requirements.txt'**:
+2. **Install the Dependencies for 'requirements.txt'**:
+   ```
    "pip install -r requirements.txt"
-5. **Run the Jupyter Notebook**:
+3. **Run the Jupyter Notebook**:
+   ```
    "jupyter notebook HousePricePrediction.ipynb"
